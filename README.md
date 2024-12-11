@@ -12,6 +12,8 @@
 
 [demo](https://aclanthology.org/2021.eacl-demos.1.pdf)
 
+[Enhanced rhethorical structure theory](https://gucorpling.org/erst/)
+
 [An Algorithmic Approach to Analyzing Rhetorical Structures](https://aclanthology.org/2024.codi-1.1.pdf)
 
 [document parsing](https://paperswithcode.com/task/discourse-parsing/latest)
