@@ -8,6 +8,8 @@
 
 #### Alia on parsers of rhetorical structures
 
+[Mann et Thompson: ](https://www.sfu.ca/rst/pdfs/Mann_Thompson_1987.pdf)
+
 [An Algorithmic Approach to Analyzing Rhetorical Structures](https://aclanthology.org/2024.codi-1.1.pdf)
 
 [document parsing](https://paperswithcode.com/task/discourse-parsing/latest)
