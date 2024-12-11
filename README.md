@@ -4,6 +4,8 @@
 
 [Discourse Coherence](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
+[Enhancing Formal Theorem Proving: A Comprehensive Dataset for Training AI Models on Coq Code](https://arxiv.org/pdf/2403.12627)
+
 #### Alia
 
 [document parsing](https://paperswithcode.com/task/discourse-parsing/latest)
