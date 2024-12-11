@@ -14,6 +14,8 @@
 
 [Enhanced rhethorical structure theory](https://gucorpling.org/erst/)
 
+[Stergos Afantenos, Pascal Denis, Philippe Muller, Laurence Danlos: Learning Recursive Segments for Discourse Parsing](http://researchers.lille.inria.fr/~pdenis/papers/lrec10seg.pdf)
+
 [RST page](https://www.sfu.ca/rst/06tools/index.html)
 
 [RST Tool](http://www.wagsoft.com/RSTTool/)
