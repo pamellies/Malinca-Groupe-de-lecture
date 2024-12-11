@@ -14,6 +14,8 @@
 
 [Enhanced rhethorical structure theory](https://gucorpling.org/erst/)
 
+[Mathieu Morey, Philippe Muller, Nicholas Asher: A Dependency Perspective on RST Discourse Parsing and Evaluation](https://aclanthology.org/J18-2001.pdf)
+
 [Stergos Afantenos, Pascal Denis, Philippe Muller, Laurence Danlos: Learning Recursive Segments for Discourse Parsing](http://researchers.lille.inria.fr/~pdenis/papers/lrec10seg.pdf)
 
 [RST page](https://www.sfu.ca/rst/06tools/index.html)
