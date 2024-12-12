@@ -1,6 +1,8 @@
 # Malinca : Groupe de lecture 
 
-## Liste d'articles sur des liens entre TAL et assistants à la démonstration
+## Liste d'articles sur des liens entre traitement automatique des langues et assistants à la démonstration
+
+#### Quelques articles généraux utiles à lire
 
 [Building a Large Annotated Corpus of English: The Penn Treebank ](https://aclanthology.org/J93-2004.pdf)
 
