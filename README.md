@@ -1,4 +1,4 @@
-# Malinca-Groupe-de-lecture
+# Malinca : Groupe de lecture autour des liens entre TAL et assistants à la démonstration
 
 [Building a Large Annotated Corpus of English: The Penn Treebank ](https://aclanthology.org/J93-2004.pdf)
 
