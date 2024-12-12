@@ -1,6 +1,6 @@
 # Malinca : Groupe de lecture 
 
-## Liste d'articles sur des liens entre traitement automatique des langues et assistants à la démonstration
+## Liste d'articles autour du traitement automatique des langues et des assistants à la démonstration
 
 #### Quelques articles généraux utiles à lire
 
