@@ -29,6 +29,5 @@
 [RST Tool](http://www.wagsoft.com/RSTTool/)
 
 [An Algorithmic Approach to Analyzing Rhetorical Structures](https://aclanthology.org/2024.codi-1.1.pdf)
->>>>>>> 5effef71bab5c747e730b99f8269ad589f0295ad
 
 [document parsing](https://paperswithcode.com/task/discourse-parsing/latest)
