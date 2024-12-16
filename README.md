@@ -1,4 +1,8 @@
-# Malinca-Groupe-de-lecture
+# Malinca : Groupe de lecture 
+
+## Liste d'articles autour du traitement automatique des langues et des assistants à la démonstration
+
+#### Quelques articles généraux utiles à lire
 
 [Building a Large Annotated Corpus of English: The Penn Treebank ](https://aclanthology.org/J93-2004.pdf)
 
@@ -8,6 +12,23 @@
 
 [Backtranslation] https://aclanthology.org/D18-1045.pdf
 
-#### Alia
+#### Alia on parsers of rhetorical structures
+
+[Mann et Thompson: Rhethorical structure organisation: a theory of text organisation](https://www.sfu.ca/rst/pdfs/Mann_Thompson_1987.pdf)
+
+[demo](https://aclanthology.org/2021.eacl-demos.1.pdf)
+
+[Enhanced rhethorical structure theory](https://gucorpling.org/erst/)
+
+[Mathieu Morey, Philippe Muller, Nicholas Asher: A Dependency Perspective on RST Discourse Parsing and Evaluation](https://aclanthology.org/J18-2001.pdf)
+
+[Stergos Afantenos, Pascal Denis, Philippe Muller, Laurence Danlos: Learning Recursive Segments for Discourse Parsing](http://researchers.lille.inria.fr/~pdenis/papers/lrec10seg.pdf)
+
+[RST page](https://www.sfu.ca/rst/06tools/index.html)
+
+[RST Tool](http://www.wagsoft.com/RSTTool/)
+
+[An Algorithmic Approach to Analyzing Rhetorical Structures](https://aclanthology.org/2024.codi-1.1.pdf)
+>>>>>>> 5effef71bab5c747e730b99f8269ad589f0295ad
 
 [document parsing](https://paperswithcode.com/task/discourse-parsing/latest)
