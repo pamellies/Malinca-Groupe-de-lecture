@@ -14,7 +14,7 @@
 
 [Backtranslation] https://aclanthology.org/D18-1045.pdf
 
-#### Linguistic structure annotation and rhetorical structures
+### Linguistic structure annotation and rhetorical structures
 
 [Building a Large Annotated Corpus of English: The Penn Treebank ](https://aclanthology.org/J93-2004.pdf)
 
