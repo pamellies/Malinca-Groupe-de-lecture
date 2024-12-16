@@ -4,15 +4,21 @@
 
 #### Quelques articles généraux utiles à lire
 
-[Building a Large Annotated Corpus of English: The Penn Treebank ](https://aclanthology.org/J93-2004.pdf)
 
-[Discourse Coherence](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
+
+### Current trends in LLM inspired formal theorem proving
+
+[Lean Workbook: A large-scale Lean problem set formalized from natural language math problems](https://arxiv.org/html/2406.03847v2)
 
 [Enhancing Formal Theorem Proving: A Comprehensive Dataset for Training AI Models on Coq Code](https://arxiv.org/pdf/2403.12627)
 
 [Backtranslation] https://aclanthology.org/D18-1045.pdf
 
-#### Alia on parsers of rhetorical structures
+#### Linguistic structure annotation and rhetorical structures
+
+[Building a Large Annotated Corpus of English: The Penn Treebank ](https://aclanthology.org/J93-2004.pdf)
+
+[Discourse Coherence](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 [Mann et Thompson: Rhethorical structure organisation: a theory of text organisation](https://www.sfu.ca/rst/pdfs/Mann_Thompson_1987.pdf)
 
