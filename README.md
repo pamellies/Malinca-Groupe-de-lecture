@@ -17,11 +17,11 @@
 
 [Hypertree proof search for neural theorem proving](https://arxiv.org/pdf/2205.11491)
 
-[Collaborative Dialogue in MineCraft](https://aclanthology.org/P19-1537.pdf)
-
 [Backtranslation](https://aclanthology.org/D18-1045.pdf)
 
-[...](https://huggingface.co/linagora/Llamipa)
+[Collaborative Dialogue in MineCraft](https://aclanthology.org/P19-1537.pdf)
+
+[Llamipa](https://huggingface.co/linagora/Llamipa)
 
 ### Linguistic structure annotation and rhetorical structures
 
