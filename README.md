@@ -5,12 +5,13 @@
 #### Quelques articles généraux utiles à lire
 
 
-
 ### Current trends in LLM inspired formal theorem proving
 
 [Lean Workbook: A large-scale Lean problem set formalized from natural language math problems](https://arxiv.org/html/2406.03847v2)
 
 [Enhancing Formal Theorem Proving: A Comprehensive Dataset for Training AI Models on Coq Code](https://arxiv.org/pdf/2403.12627)
+
+[NLIR: Natural Language Intermediate Representation for Mechanized Theorem Proving](https://guillaume.baudart.eu/papers/mathai_neurips24.pdf)
 
 [Backtranslation](https://aclanthology.org/D18-1045.pdf)
 
