@@ -15,6 +15,8 @@
 
 [The ABEL: Sample Efficient Online Reinforcement Learning for Neural Theorem Proving](https://openreview.net/pdf?id=kk3mSjVCUO)
 
+[Dialogue](https://aclanthology.org/P19-1537.pdf)
+
 [Hypertree proof search for neural theorem proving](https://arxiv.org/pdf/2205.11491)
 
 [Backtranslation](https://aclanthology.org/D18-1045.pdf)
