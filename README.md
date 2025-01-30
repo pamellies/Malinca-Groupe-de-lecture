@@ -13,6 +13,8 @@
 
 [NLIR: Natural Language Intermediate Representation for Mechanized Theorem Proving](https://guillaume.baudart.eu/papers/mathai_neurips24.pdf)
 
+[The ABEL: Sample Efficient Online Reinforcement Learning for Neural Theorem Proving](https://openreview.net/pdf?id=kk3mSjVCUO)
+
 [Backtranslation](https://aclanthology.org/D18-1045.pdf)
 
 ### Linguistic structure annotation and rhetorical structures
